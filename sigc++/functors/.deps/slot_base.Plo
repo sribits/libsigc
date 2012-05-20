@@ -1,0 +1,106 @@
+functors/slot_base.lo: functors/slot_base.cc \
+ ../sigc++/functors/slot_base.h ../sigc++config.h ../sigc++/trackable.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/list \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/stl_algobase.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/arm-none-linux-gnueabi/bits/c++config.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/arm-none-linux-gnueabi/bits/os_defines.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/features.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/sys/cdefs.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/wordsize.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/gnu/stubs.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/arm-none-linux-gnueabi/bits/cpu_defines.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/cstddef \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/include/stddef.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/functexcept.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/exception_defines.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/cpp_type_traits.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/ext/type_traits.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/ext/numeric_traits.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/stl_pair.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/move.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/concept_check.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/stl_iterator_base_types.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/stl_iterator_base_funcs.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/stl_iterator.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/debug/debug.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/allocator.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/arm-none-linux-gnueabi/bits/c++allocator.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/ext/new_allocator.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/new \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/exception \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/stl_list.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/initializer_list \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/list.tcc \
+ ../sigc++/functors/functor_trait.h ../sigc++/type_traits.h
+
+../sigc++/functors/slot_base.h:
+
+../sigc++config.h:
+
+../sigc++/trackable.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/list:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/stl_algobase.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/arm-none-linux-gnueabi/bits/c++config.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/arm-none-linux-gnueabi/bits/os_defines.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/features.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/sys/cdefs.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/wordsize.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/gnu/stubs.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/arm-none-linux-gnueabi/bits/cpu_defines.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/cstddef:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/include/stddef.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/functexcept.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/exception_defines.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/cpp_type_traits.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/ext/type_traits.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/ext/numeric_traits.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/stl_pair.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/move.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/concept_check.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/stl_iterator_base_types.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/stl_iterator_base_funcs.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/stl_iterator.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/debug/debug.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/allocator.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/arm-none-linux-gnueabi/bits/c++allocator.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/ext/new_allocator.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/new:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/exception:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/stl_list.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/initializer_list:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/../../../../arm-none-linux-gnueabi/include/c++/4.4.3/bits/list.tcc:
+
+../sigc++/functors/functor_trait.h:
+
+../sigc++/type_traits.h:
